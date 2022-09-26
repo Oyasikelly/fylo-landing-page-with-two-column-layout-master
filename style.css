@@ -338,17 +338,21 @@ footer{
         margin: 0 auto;
         margin-top: 4rem;
         padding: 0 4rem;
-        padding-right: 3rem;
-        justify-content: space-between;
+        padding-right: 0rem;
+        border: 2px solid red;
+        justify-content:space-between;
     }
     .image-1{
-        width:800px;
-        height: auto;
-        padding-right: 200px
+        width:480px;
+        padding-right:3rem;
+        margin-top: 6rem;
+
     }
     .group-1{
         padding-top: 4rem;
-        width:650px;
+        width:500px;
+        border: 2px solid red;
+
     }
     h1{
         max-width: 400px;
@@ -402,14 +406,15 @@ footer{
         justify-content: space-between;
     }
     .image-2{
-        width:800px;
-        padding-right: 300px;
-        display: flex;
-        flex-direction: column;
-        margin-top: 0em;    }
+        width:450px;
+        padding-right:3rem;
+        margin-top: 6rem;
+ }
     
     .group-2{
-        width: 660px;
+        padding-top: 4rem;
+        width:540px;
+        border: 2px solid red;
     }
     h2{
         text-align:left;
